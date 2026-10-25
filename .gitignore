@@ -1,0 +1,14 @@
+# Байт-код Python
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения
+venv/
+env/
+
+# Логи
+*.log
+
+# Настройки IDE
+.idea/
+.vscode/
